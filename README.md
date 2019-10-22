@@ -1,4 +1,4 @@
-# PRN Without function
+# PRN With function
 ## AIM: To print prn using function.
 ## ALGORITHM: 
 1) Start 
